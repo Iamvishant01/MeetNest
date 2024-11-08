@@ -27,10 +27,9 @@
 
 ## 💻 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: ReactJS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Video Integration**: WebRTC
+- **Video Integration**: WebRTC , Socket.IO
 
 ---
 
