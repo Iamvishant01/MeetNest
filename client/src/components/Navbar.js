@@ -22,7 +22,7 @@ export default function Navbar() {
           <a className="nav-link active" aria-current="page" href="../notfound/NotFound.html">Components</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" rel="noreferrer" href="https://linktr.ee/iamvishant01" target='_blank'>Devloper's contact</a>
+          <a className="nav-link active" aria-current="page" rel="noreferrer" href="https://linktr.ee/iamvishant02" target='_blank'>Devloper's contact</a>
         </li>
       </ul>
       <div className="btns1 d-flex grid gap-2">
