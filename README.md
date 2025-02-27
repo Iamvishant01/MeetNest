@@ -52,7 +52,7 @@ Follow these steps to set up Meetnest locally:
 
 ## 📷 Screenrecords
 
-https://github.com/user-attachments/assets/d227f2b0-0ec5-48f7-b28c-475f7395c09b
+comming soon ......
 
 ## 📞 Contact
 For inquiries or support, feel free to reach out:
