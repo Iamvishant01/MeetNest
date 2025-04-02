@@ -70,18 +70,6 @@ MeetNest is built using the latest web technologies:
 
 ---
 
-## 🏆 Contributing
-
-We welcome contributions! Follow these steps:
-
-1. **Fork the repository** 🍴
-2. **Create a new branch:** `git checkout -b feature-name`
-3. **Commit changes:** `git commit -m "Added new feature"`
-4. **Push to GitHub:** `git push origin feature-name`
-5. **Create a Pull Request** 📢
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
