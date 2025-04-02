@@ -1,6 +1,5 @@
 # MeetNest - Seamless Video Conferencing Platform 🚀
-
-![MeetNest Banner](https://your-image-url.com)
+![Screenshot (128)](https://github.com/user-attachments/assets/bbe00cfc-f730-43d1-9358-d0d3e6f19951)
 
 MeetNest is a **versatile online video conferencing platform** designed for seamless virtual communication. Whether you're hosting a meeting, webinar, or online event, MeetNest ensures **HD video calls, real-time collaboration, and a user-friendly interface** without requiring email ID or registration.
 
@@ -20,8 +19,6 @@ MeetNest is a **versatile online video conferencing platform** designed for seam
 
 ---![Screenshot (130)](https://github.com/user-attachments/assets/d8814e1b-f051-4ef1-af3a-4aa74c810aa4)
 ![Screenshot (129)](https://github.com/user-attachments/assets/96abf9ee-de24-4620-a264-49ef9883c5fe)
-![Screenshot (128)](https://github.com/user-attachments/assets/bbe00cfc-f730-43d1-9358-d0d3e6f19951)
-
 
 ## 🚀 How to Use MeetNest
 
